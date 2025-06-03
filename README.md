@@ -1,6 +1,4 @@
-**Name:** Keerthana Saravanan
-**Register Number:** 212223240070
-
+# EX-6: Implementation of Semantic Analysis
 ## <h3>Aim:</h3>
 To perform Parts of speech identification and Synonym using Natural Language Processing (NLP) techniques.
  
